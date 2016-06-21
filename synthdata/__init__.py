@@ -2,7 +2,6 @@
 from collections import Counter, defaultdict
 from datetime import date, datetime, timedelta
 import numpy as np
-import pandas as pd
 from random import random
 
 
